@@ -1,4 +1,4 @@
-# Chinomso Nnorom - Data Analyst
+# Chinomso Nnorom - Data Scientist
 
 Welcome to my GitHub profile! I'm Chinomso Nnorom, a passionate Data Analyst with extensive experience in various data analysis tools and languages. Here, you'll find some of the projects I've worked on, as well as my skills and expertise in data analysis.
 
